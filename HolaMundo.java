@@ -1,4 +1,4 @@
-public class ProblemaUno{
+public class HolaMundo{
     public static void main(String[] args) {
         System.out.println(" Maven, Gradle y Ant son tres herramientas de Automatización.");
         System.out.println("En Ant creamos el build que se encarga de ejecutar las tareas correspondientes. Es flexible pero solo sirve para un proyecto.");

@@ -1,4 +1,4 @@
-public class ProblemaDos{
+public class VentajasDeGit{
     public static void main(String[] args) {
         System.out.println(" Git es un sistema de controlador de versiones de tipo local o de tipo distribuido.");
         System.out.println("Una de las principales ventajes es que nos permite tener versiones de distintos proyectos y poder adceder a ellos.");
